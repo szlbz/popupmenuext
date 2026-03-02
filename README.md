@@ -1,9 +1,9 @@
 # PopupMenu自绘
-原因也一样，lazarus在linux采用系统原生的PopupMenu，用户无法设定PopupMenu颜色等参数 
+lazarus在linux采用系统原生的PopupMenu，用户无法设定PopupMenu颜色等参数  
 在银河麒麟使用系统原生的popmenu:  
-<img width="810" height="675" alt="图片" src="https://github.com/user-attachments/assets/f159c8ed-cbd7-4011-b380-8806c35c614e" />
+<img width="810" height="675" alt="图片" src="https://github.com/user-attachments/assets/f159c8ed-cbd7-4011-b380-8806c35c614e" />  
 使用扩展功能后：  
-<img width="804" height="664" alt="图片" src="https://github.com/user-attachments/assets/09eb81ff-00bf-474a-8eda-294cbbd98f4f" />
+<img width="804" height="664" alt="图片" src="https://github.com/user-attachments/assets/09eb81ff-00bf-474a-8eda-294cbbd98f4f" />  
   
 Demo: 
 ```pascal
