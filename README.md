@@ -1,4 +1,5 @@
-# PopupMenu自绘
+# [秋风原创控件]PopupMenu自绘
+* QQ：315795176  
 lazarus在linux采用系统原生的PopupMenu，用户无法设定PopupMenu颜色等参数  
 在银河麒麟使用系统原生的popmenu:  
 <img width="810" height="675" alt="图片" src="https://github.com/user-attachments/assets/f159c8ed-cbd7-4011-b380-8806c35c614e" />  
